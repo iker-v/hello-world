@@ -13,6 +13,8 @@ Quieren decir que tenía el sobrenombre de Quijada, o Quesada, que en esto hay a
 
 Pero esto importa poco a nuestro cuento: basta que en la narración dél no se salga un punto de la verdad.
 
-### Subtitulo
+### ¿ Por qué Quijotipsum ?
+
+Lorem Ipsum es un texto de relleno estándar utilizado desde mucho tiempo atrás en las imprentas para completar trabajos y que también se viene utilizando en diseño web a la hora de completar los textos de un trabajo en desarrollo. Ahora, por qué no usar un texto similar en español, y darle un toque más natural y divertido a nuestros trabajos.
 
 ![](https://images.unsplash.com/photo-1564681323573-5a9fef9c563b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cXVpam90ZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
